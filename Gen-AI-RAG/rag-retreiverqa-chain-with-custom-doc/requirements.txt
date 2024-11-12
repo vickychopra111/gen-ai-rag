@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain_community
+langchain-core
+beautifulsoup4  # Correct name for bs4
+transformers
+pypdf  # Correct name for pyPDF
+faisis  # Correct library name for FASIS
+chromadb  # Correct library name for ChromaDB
+loguru
