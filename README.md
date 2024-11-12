@@ -4,8 +4,8 @@ Testable--> Deployable--> Scalable
 
 This is the project structure 
 rag_project/
-├── data/ # Data files (PDFs, etc.) 
-├── model/  # Model checkpoints
+├── data/ # Data files (PDFs, etc.)
+├── model/  # Model checkpoints  
 │   ├── embedding_model.py
 │   ├── llm_model.py
 ├── utils/ # Utility functions
